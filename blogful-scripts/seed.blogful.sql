@@ -1,0 +1,22 @@
+INSERT INTO blogful_articles (title, date_published, content)
+VALUES
+('Title1',current_timestamp ,'Content' ),
+('Title2',current_timestamp ,'Content' ),
+('Title3',current_timestamp ,'Content' ),
+('Title4',current_timestamp ,'Content' ),
+('Title5',current_timestamp ,'Content' ),
+('Title6',current_timestamp ,'Content' ),
+('Title7',current_timestamp ,'Content' ),
+('Title8',current_timestamp ,'Content' ),
+('Title9',current_timestamp ,'Content' ),
+('Title10',current_timestamp ,'Content' ),
+('Title11',current_timestamp ,'Content' ),
+('Title12',current_timestamp ,'Content' ),
+('Title13',current_timestamp ,'Content' ),
+('Title14',current_timestamp ,'Content' ),
+('Title15',current_timestamp ,'Content' ),
+('Title16',current_timestamp ,'Content' ),
+('Title17',current_timestamp ,'Content' ),
+('Title18',current_timestamp ,'Content' ),
+('Title19',current_timestamp ,'Content' ),
+('Title20',current_timestamp ,'Content' )

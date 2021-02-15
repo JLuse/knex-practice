@@ -84,16 +84,16 @@ console.log('knex and driver installed correctly');
 
 // mostPopularVideosForDays(30)
 
-const searchTerm = 'ish';
+// const searchTerm = 'ish';
 
-function getAllItems(searchTerm) {
-  knexInstance
-    .select('*')
-    .from('shopping_list')
-    .where('name', 'ILIKE', `%${searchTerm}%`)
-    .then(res => {
-      console.log(res)
-    })
-}
+// function getAllItems(searchTerm) {
+//   knexInstance
+//     .select('*')
+//     .from('shopping_list')
+//     .where('name', 'ILIKE', `%${searchTerm}%`)
+//     .then(res => {
+//       console.log(res)
+//     })
+// }
 
-getAllItems(searchTerm);
+// getAllItems(searchTerm);
